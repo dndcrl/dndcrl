@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **KLIQUE**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [95xx25.netlify.app](95xx25.netlify.app)
 
