@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlette</h1>
-<h3 align="center">A website developer</h3>
+<h3 align="center">Website Developer | UI/UX Designer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dndcrl&label=Profile%20views&color=0b2f6b&style=flat" alt="dndcrl" /> </p>
 
