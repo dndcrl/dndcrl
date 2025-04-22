@@ -41,6 +41,9 @@
   
 <h3 align="left">📫 Let's Connect:</h3>
 <div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://discord.com/users/0xerces" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dndcrl" height="30" width="40" />
+  </a>
   <a href="https://instagram.com/dndcrl" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dndcrl" height="30" width="40" />
   </a>
