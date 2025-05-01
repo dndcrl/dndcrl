@@ -118,9 +118,5 @@
 
 
 <!-- GitHub Stats Section -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dndcrl&theme=blueberry&show_icons=true&hide_border=true&count_private=false" alt="dndcrl's Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dndcrl&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="dndcrl's Top Languages" height="180"/>
-  <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=dndcrl&theme=onestar&no-frame=true&row=1&column=6" alt="dndcrl's GitHub Trophies" height="120"/>
 </p>
