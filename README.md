@@ -57,7 +57,7 @@
 <h2 align="center">🔬 My Current Focus</h2>
 
 <ul>
-  <li>💙 Building a Social Networking Platform Project (React.js & TailwindCSS)</li>
+  <li>💙 Building Personal Projects</li>
   <li>💙 Advancing backend skills</li>
   <li>💙 Exploring new programming languages</li>
 </ul>
