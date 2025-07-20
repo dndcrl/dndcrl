@@ -14,7 +14,7 @@
 <h2 align="center">✨ About Me</h2>
 
 <p align="center">
-  <b>Hey! I'm Carlette, an 18-year-old student passionate about tech, design, and building cool things on the web.<br>
+  <b>Hey! I'm Carlette, an 19-year-old student passionate about tech, design, and building cool things on the web.<br>
   I love turning ideas into reality through code and creativity.</b>
 </p>
 
@@ -35,10 +35,10 @@
 
 <ul>
   <li>✔️ Frontend Web Development</li>
-  <li>✔️ UI/UX Design (responsive & accessible)</li>
+  <li>✔️ UI/UX Design</li>
   <li>✔️ Creating interactive projects</li>
   <li>✔️ Database design & management</li>
-  <li>✔️ Visual content & branding for social media</li>
+  <li>✔️ Visual content & branding</li>
 </ul>
 
 <hr>
