@@ -12,7 +12,6 @@
 <h2>✨ About Me</h2>
 
 <div>
-  <img src="https://img.shields.io/badge/Student-19%20years%20old-125ac7?style=flat-square&logo=graduation-cap&logoColor=white" />
   <img src="https://img.shields.io/badge/Philippines-Home%20base-38B2AC?style=flat-square&logo=google-maps&logoColor=white" />
 </div>
 
