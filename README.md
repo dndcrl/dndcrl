@@ -12,7 +12,7 @@
 <h2>✨ About Me</h2>
 
 <div>
-  <img src="https://img.shields.io/badge/Philippines-Home%20base-38B2AC?style=flat-square&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Philippines-38B2AC?style=flat-square&logo=google-maps&logoColor=white" />
 </div>
 
 <p style="font-size: 1.1em;">
