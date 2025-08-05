@@ -19,14 +19,14 @@
 
 ## 💼 Projects & Highlights
 
-- 📃 **ExaMPS**: Built an online exam system for a school research project (yes, it actually worked!)
+- 📃 **ExaMPS**: Built an online exam system for a school research project 
 - 🎥 **FEELMS**: Created a movie mood recommender from scratch, because picking a movie is hard
 
 ---
 
 ## 🔬 Currently Exploring
 
-- 🛠️ Building personal projects (
+- 🛠️ Building personal projects 
 - 🧩 Leveling up my backend skills
 - 🦄 Learning new programming languages 
 
@@ -47,7 +47,7 @@
 
 ---
 
-## 🏆 Some GitHub Fun
+## 🏆
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dndcrl&theme=onestar&no-frame=true&row=1&column=6" alt="GitHub Trophies" height="120"/>
@@ -59,4 +59,3 @@
 
 ---
 
-<sub>✨ Thanks for stopping by! If you read this far, you deserve a cookie 🍪</sub>
