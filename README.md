@@ -22,13 +22,6 @@
 - 📃 **ExaMPS**: Built an online exam system for a school research project 
 - 🎥 **FEELMS**: Created a movie mood recommender from scratch, because picking a movie is hard
 
----
-
-## 🔬 Currently Exploring
-
-- 🛠️ Building personal projects 
-- 🧩 Leveling up my backend skills
-- 🦄 Learning new programming languages 
 
 ---
 
