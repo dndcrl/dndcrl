@@ -9,46 +9,14 @@
 
 ---
 
-## ✨ About Me
+✨ **About Me**
 
 - 🏠 Based in the **Philippines**
 - 👩‍💻 19 y/o student, web developer, and design enthusiast
 
----
+⚡ **Tech Stack**  
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,php,git,supabase" />
+</div>
 
-
-## 💼 Projects & Highlights
-
-- 📃 **ExaMPS**: Built an online exam system for a school research project 
-- 🎥 **FEELMS**: Created a movie mood recommender from scratch, because picking a movie is hard
-
-
----
-
-## 🛠️ Languages & Tools
-
-| Frontend | Backend | Databases | Design |
-|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" alt="Next.js"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" alt="PHP"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" alt="Figma"/> <img src="https://img.icons8.com/color/48/000000/canva.png" width="40" alt="Canva"/> |
-
----
-
-## 📫 Let's Connect!
-
-- [Discord: 0xerces](https://discord.com/users/0xerces)  
-- [Instagram: @dndcrl](https://instagram.com/dndcrl)
-
----
-
-## 🏆
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dndcrl&theme=onestar&no-frame=true&row=1&column=6" alt="GitHub Trophies" height="120"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=dndcrl&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dndcrl&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dndcrl&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
----
 
