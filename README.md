@@ -19,4 +19,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,php,git,supabase" />
 </div>
 
+<br>
+
+📊 **Stats**
+
+<br>
+
+![dndcrl's Stats](https://github-readme-stats.vercel.app/api?username=dndcrl&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+![dndcrl's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dndcrl&theme=prussian&hide_border=true)
 
